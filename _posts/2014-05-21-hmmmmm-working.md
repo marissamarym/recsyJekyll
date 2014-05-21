@@ -1,7 +1,7 @@
 ---
 title: hmmmmm working?
 layout: post
-published: false
+published: true
 hi: hmmmmmmm
 ---
 i think maybe who knows
