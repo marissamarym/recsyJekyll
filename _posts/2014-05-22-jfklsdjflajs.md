@@ -1,7 +1,7 @@
 ---
 title: jfklsdjflajs
 layout: post
-published: false
+published: true
 hi: hmmmmmmm
 ---
 mycontent
