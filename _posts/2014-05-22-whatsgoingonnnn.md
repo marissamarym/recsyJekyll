@@ -1,6 +1,7 @@
 ---
 title: whatsgoingonnnn
 layout: post
-published: false
+published: true
 hi: hmmmmmmm
 ---
+i don't know
